@@ -8,6 +8,7 @@
  *
  */
 
+#import <Foundation/Foundation.h>
 #include <CoreGraphics/CGBase.h>
 #import "ASBaseDefines.h"
 
